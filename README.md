@@ -1,4 +1,7 @@
-# anime-searcher
+# Anime Searcher
+
+## DEMO
+https://anime-searcher-ten.vercel.app/
 
 ## Project setup
 ```
